@@ -68,7 +68,7 @@ print("Hasil Penggabungan {1}+{0}=%s".format(a,b) %(a+b))
 ```
 Outputnya akan seperti ini
 
-![gambar6](gambar/rani6.png)
+![gambar6](gambar/zra6.png)
 
 # Konversi kedua nilai variabel
 Penggunaan python untuk mengkonversi nilai kedua variabel dengan 
@@ -80,4 +80,4 @@ print("Hasil Pembagian {1}+{0}=%d").format(a,b) %(a/b))
 ```
 Outputnya akan seperti ini 
 
-![gambar7](gambar/rani7.png)
+![gambar7](gambar/zra7.png)
